@@ -1,0 +1,22 @@
+{
+  "wheel_id": 832,
+  "structure": "umbrella",
+  "slug": "poolretainingwallsbrisbane-116",
+  "project": "pool-retaining-wall-builders-brisbane-signs-you-need-7af2c604f3",
+  "parent_t1_ref": "poolretainingwallsbrisbane-157",
+  "node_role": "feeder",
+  "money_target": "poolretainingwallsbrisbane.com.au",
+  "primary_kw": "pool retaining wall builders brisbane signs you need",
+  "intended_url": "https://sites-e470-2.web.app/pool-retaining-wall-builders-brisbane-signs-you-need-7af2c604f3/",
+  "tier": "T2",
+  "writeback_nonce": "bd1ac1be978a35ec",
+  "links": [
+    {
+      "target_url": "http://pool-retaining-wall-builders-brisbane-how-to-choose-50d9fcb0827.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "pool retaining wall builders brisbane how to choose explained",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
